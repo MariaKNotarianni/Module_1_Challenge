@@ -49,7 +49,7 @@ The majority of employees working in online banking are white men. Offering scho
 * [Best Online Banks](https://www.bankrate.com/banking/best-online-banks/#discover)
 * [How does Sofi make money?, *Finty*](https://finty.com/us/business-models/sofi/#:~:text=SoFi%20makes%20money%20from%20its,the%20FDIC%2Dinsured%20sweep%20programs.)
 * [Nu Holdings Ltd. Reports Third Quarter 2023 Financial Results, *Nu Financial Report*](https://international.nubank.com.br/company/nu-holdings-ltd-reports-third-quarter-2023-financial-results/)
-* [Revenue growth of Nubank from 1st quarter 2021 to 2nd quarter 2023],(https://www.statista.com/statistics/1416387/nubank-revenue-growth-quarterly/#:~:text=Nubank's%20revenue%20growth%20fluctuated%20significantly,percent%20and%20244%20percent%2C%20respectively.)
+* [Revenue growth of Nubank from 1st quarter 2021 to 2nd quarter 2023](https://www.statista.com/statistics/1416387/nubank-revenue-growth-quarterly/#:~:text=Nubank's%20revenue%20growth%20fluctuated%20significantly,percent%20and%20244%20percent%2C%20respectively.)
 * [SoFi Tech](https://stackshare.io/sofi/sofi)
 * [SoFi Q3 2023 Earnings Release](https://s27.q4cdn.com/749715820/files/doc_financials/2023/q3/Q3-2023-Earnings-Release-6.pdf)
 * [Study: Racial biases continue to impact loan approvals for minority business owners, *Bankrate*](https://www.bankrate.com/loans/small-business/racial-biases-impact-loan-approval-for-minority-business-owners/)
