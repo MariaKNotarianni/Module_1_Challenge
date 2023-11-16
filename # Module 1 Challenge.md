@@ -3,7 +3,7 @@
 ![SoFiLogo](SoFi.png)
 
 
-SoFi (Social Finance) Technologies, Inc. was founded in 2011 by Mike Cagney, Dan Macklin, James Finnigan, and Ian Brady. The founders saw the potential in using technology to both connect with customers and lower their overhead expenses.
+SoFi (Social Finance) Technologies, Inc. was founded in 2011 by Mike Cagney, Dan Macklin, James Finnigan, and Ian Brady. The founders imagined a new way to bank, seeing the potential in using technology to both connect with customers and lower their overhead expenses.
 
 > ### **"Traditional banks weren't fully harnessing the power of the web to connect with their customers so they (SoFi) built a whole business around the idea."** 
 > #### *Jim Cramer, Mad Money*
